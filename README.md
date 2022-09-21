@@ -8,10 +8,12 @@ Instructies:
 7. Open een nieuwe command prompt.
 8. Ga naar de juiste directory waar de files zich bevinden.
 9. Typ 'composer install' en wacht to hij klaar is met installeren.
-10. Typ 'php artisan key:generate'
-11. Typ daarna 'php artisan serve' (Dit start de laravel development server)
-12. Ga naar de link die word gegeven door de command prompt
-13. Tadaaa daar is website!!! 
+10. Typ 'npm install' en wacht tot hij klaar is met installeren.
+11. Typ 'php artisan key:generate'
+12. Typ daarna 'php artisan serve' (Dit start de laravel development server)
+13. Ga naar de link die word gegeven door de command prompt
+14. Tadaaa daar is website!!! 
+
 
 
 
