@@ -1,3 +1,22 @@
+Instructies:
+1. Ga naar de link https://getcomposer.org/Composer-Setup.exe en volg de instructies tijdens de installatie.
+2. Ga naar de link https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi en volg de instructies tijdens de installatie.
+3. Open XAMPP Control Panel en start Apache en MySQL.
+4. Hernoem '.env.example' tot '.env'
+5. Ga naar 127.0.0.1/phpMyAdmin en maak een nieuwe database aan (standaard naam uit .env is 'informatica')
+6. Als je de standaard naam hebt gekozen kun je deze stap overslaan anders moet je in de .env file de 'DB_DATABASE=' aanpassen.
+7. Importeer de 2 bestanden met de extensie .sql in de database.
+8. Open een nieuwe command prompt.
+9. Ga naar de juiste directory waar de files zich bevinden.
+10. Typ 'php artisan serve' (Dit start de laravel development server)
+11. Ga naar de link die word gegeven door de command prompt
+12. Tadaaa daar is website!!! 
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
