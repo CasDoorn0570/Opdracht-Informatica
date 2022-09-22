@@ -10,7 +10,6 @@
         <link rel="icon" type="apple-touch-icon" href="assets/img/apple-touch-icon.ico" />
         <link rel="icon" type="image/png" href="assets/img/favicon-32x32.png" sizes="32x32" />
         <link rel="icon" type="image/png" href="assets/img/favicon-16x16.png" sizes="16x16" />
-        <link rel="manifest" href="assets/img/site.webmanifest">
 
         <!-- Bootstrap -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -52,8 +51,8 @@
                         </li>
                     </ul>
                     <form class="form-inline my-2 my-lg-0">
-                        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        <input class="form-control mr-sm-2" type="text" id="searchEmployee" placeholder="Search for employee" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" onclick="window.searchEmployee()" type="button">Search</button>
                     </form>
                 </div>
             </nav>
@@ -73,7 +72,7 @@
 
         <header id="table">
             <div class="container">        
-                <table class="table table-striped table-bordered table-sortable">
+                <table class="table table-striped table-bordered table-sortable" id="table">
                     <thead class="table-dark">
                     <tr>
                         <th scope="col">First Name</th>
