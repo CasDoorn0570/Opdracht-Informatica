@@ -39,9 +39,9 @@
                         <li class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">Socials</a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="https://github.com/CasDoorn0570">Github</a></li>
-                                <li><a class="dropdown-item" href="https://instagram.com/cas_doorn06">Instagram</a></li>
-                                <li><a class="dropdown-item" href="https://tiktok.com/@cas.doorn">Tiktok</a></li>
+                                <li><a class="dropdown-item" href="https://github.com/CasDoorn0570" target="_blank">Github</a></li>
+                                <li><a class="dropdown-item" href="https://instagram.com/cas_doorn06" target="_blank">Instagram</a></li>
+                                <li><a class="dropdown-item" href="https://tiktok.com/@cas.doorn" target="_blank">Tiktok</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
