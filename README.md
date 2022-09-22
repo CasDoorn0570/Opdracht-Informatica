@@ -2,9 +2,9 @@ Instructies:
 1. Ga naar de link https://getcomposer.org/Composer-Setup.exe en volg de instructies tijdens de installatie.
 2. Ga naar de link https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi en volg de instructies tijdens de installatie.
 3. Open XAMPP Control Panel en start Apache en MySQL.
-4. Hernoem het bestand '.env.example' tot '.env'
-5. Ga naar 127.0.0.1/phpMyAdmin
-6. Importeer het bestand genaamd 'informatica.sql'
+4. Ga naar 127.0.0.1/phpMyAdmin
+5. Maak een nieuwe database aan met de naam informatica
+6. Open de nieuwe database en importeer het bestand genaamd 'informatica.sql'
 7. Open een nieuwe command prompt.
 8. Ga naar de juiste directory waar de files zich bevinden.
 9. Typ 'composer install' en wacht to hij klaar is met installeren.
