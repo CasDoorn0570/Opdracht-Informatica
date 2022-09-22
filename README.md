@@ -10,9 +10,10 @@ Instructies:
 9. Typ 'composer install' en wacht to hij klaar is met installeren.
 10. Typ 'npm install' en wacht tot hij klaar is met installeren.
 11. Typ 'php artisan key:generate'
-12. Typ daarna 'php artisan serve' (Dit start de laravel development server)
-13. Ga naar de link die word gegeven door de command prompt
-14. Tadaaa daar is website!!! 
+12. Het kan soms zijn dat de composer nog niet helemaal compleet is typ daarom 'composer update' en wacht tot hij klaar is.
+13. Typ daarna 'php artisan serve' (Dit start de laravel development server)
+14. Ga naar de link die word gegeven door de command prompt
+15. Tadaaa daar is website!!! 
 
 
 
